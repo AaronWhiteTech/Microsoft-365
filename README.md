@@ -4,7 +4,7 @@
 objectives 
 General Congiguration of office 365 along with skills learned,going over various commands and  
 - user acconut creation 
-- passwoed reset
+- password reset
 - adding contacts
 - setting automatic replies
 - team creation
@@ -35,7 +35,7 @@ Adding outside of organization contact "Ace Russell"
 
 ![m365 add team](https://github.com/AaronWhiteTech/Microsoft-365/assets/155200818/a7e02352-a82a-485e-aa46-13b0977fb026)
 
-Creating "Accounting"  The owners are "Alex Russell" and "Ian Smith" with members "Derrick Harris", "France Fredricks" and "Joathan Mendoza"
+Creating "Accounting" Team  The owners are "Alex Russell" and "Ian Smith" with members "Derrick Harris", "France Fredricks" and "Joathan Mendoza"
 
 
 
@@ -43,7 +43,7 @@ Creating "Accounting"  The owners are "Alex Russell" and "Ian Smith" with member
 
 
 
-Creation of mobile device managment, set to quarintine, unknown devices
+Creation of mobile device managment, set to quarintine unknown devices that are new to the network
 
 
 
