@@ -1,7 +1,8 @@
 # Microsoft-365 Overiew
 ![image](https://github.com/AaronWhiteTech/Microsoft-365/assets/155200818/b1fe238d-8cdc-4cd7-8b09-ec54171fad87)
 
-objectives 
+objectives:
+
 General Congiguration of office 365 along with skills learned,going over various commands and  
 - user acconut creation 
 - password reset
@@ -15,7 +16,6 @@ General Congiguration of office 365 along with skills learned,going over various
 
 
 ![m365 user creation](https://github.com/AaronWhiteTech/Microsoft-365/assets/155200818/d2872acb-ee35-4dc2-b76d-3de25bfdd9c8)
-
 
 
 Creation of user account "Rashied Walker" 20 accounts were created in total 
