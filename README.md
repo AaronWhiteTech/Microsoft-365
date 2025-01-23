@@ -33,6 +33,8 @@ Creating user accounts groups,and assigning liscences
 
 ![m365 group add](https://github.com/user-attachments/assets/7b664d5e-15a8-4258-9bce-f02925464a4d)
 
+- You can create gropus for an organization here assgining multiple accounts into one place 
+
 ![m365 create distro group](https://github.com/user-attachments/assets/a78956af-bda8-4ee9-aa06-14ea4287a308)
 
 - You can create a distribution group, which allows you to send emails out to a group of people such as the group made above,
