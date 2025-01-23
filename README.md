@@ -43,7 +43,9 @@ Creating user accounts groups,and assigning liscences
 
 
 ![m365 group add](https://github.com/user-attachments/assets/7b664d5e-15a8-4258-9bce-f02925464a4d)
+
 <h12>Group Add</h12>
+
 - You can create gropus for an organization here assgining multiple accounts into one place 
 
 <h8>Distribuion Group</h8>
@@ -59,7 +61,9 @@ Creating user accounts groups,and assigning liscences
 ![m 365 security group](https://github.com/user-attachments/assets/d18d740c-40a4-46b1-971a-99964e2b4d36)
 
 - Security groups are used to manage access to certain devices and peripherals, making it so that only people within the security group can access the device This is used in conjunction with MDM for things such as company owned devices. or along with the BYOD policies a company can add.
-<h4>Shared MailB.ox</h4>
+
+
+<h4>Shared MailBox</h4>
  
  
  <h10>Shared Mailbox<h/10>
