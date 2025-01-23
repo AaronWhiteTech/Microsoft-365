@@ -21,7 +21,9 @@ Creating user accounts groups,and assigning liscences
 ![m365 multi user creation](https://github.com/user-attachments/assets/296c8568-0d59-4f09-befe-b59b45e02e51)
 
 - similar to single user multiple use creation allows for a group of individuals to be made with 250 user available for creation 
+
 <h5>Contacts</h5>
+
 ![m 365 contacts](https://github.com/user-attachments/assets/c21c1696-aaad-4da0-b0ce-4380028e72ed)
 
 
@@ -36,12 +38,12 @@ Creating user accounts groups,and assigning liscences
 
 - Use it templates can be for quickly creating a type of user. having the basic essentials that certain types of accounts will need
 - making it easy to on board large groups of people.
-<H3>Group Creation</H3>
+
 <h7>Group Add</h7>
 
 
 ![m365 group add](https://github.com/user-attachments/assets/7b664d5e-15a8-4258-9bce-f02925464a4d)
-
+<h12>Group Add</h12>
 - You can create gropus for an organization here assgining multiple accounts into one place 
 
 <h8>Distribuion Group</h8>
