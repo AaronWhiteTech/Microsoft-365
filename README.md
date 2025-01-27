@@ -27,8 +27,8 @@ Creating user accounts groups,and assigning liscences
 ![m 365 contacts](https://github.com/user-attachments/assets/c21c1696-aaad-4da0-b0ce-4380028e72ed)
 
 
-- Contacts are accounts for individuals outdside the organization You can hide contacts from the global.
-- address List so confusion can be avoided if the. contact has a similar name to someone within the organization.
+- Contacts are accounts for individuals outdside the organization You can hide contacts from the global address List
+- confusion can be avoided if the contact has a similar name to someone within the organization.
 
 
 <h6>Templates</h6>
@@ -36,7 +36,7 @@ Creating user accounts groups,and assigning liscences
 ![m365 template](https://github.com/user-attachments/assets/e80775bd-fc78-4f22-97e3-70aae103ac28)
 
 
-- Use it templates can be for quickly creating a type of user. having the basic essentials that certain types of accounts will need
+- Templates can be for quickly creating a type of user having the basic essentials that certain types of accounts will need
 - making it easy to on board large groups of people.
 
 <h7>Group Add</h7>
